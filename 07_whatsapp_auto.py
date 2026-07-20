@@ -14,8 +14,8 @@ import time
 
 ########
 #step 2\twilio credintials
-account_sid ='ACf52d73cb996330c38254205de910dd49'
-auth_token = 'd89993f7583f46d9b717d38fd2958c12'
+account_sid ='website par milega'
+auth_token = 'no'# tumhare file mee haa
 
 client = Client(account_sid,auth_token)
 
